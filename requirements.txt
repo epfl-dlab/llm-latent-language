@@ -1,3 +1,6 @@
+torch
+torchvision
+torchaudio
 pandas
 dataclasses 
 numpy 
