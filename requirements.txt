@@ -1,5 +1,7 @@
 torch
 torchvision
+torch
+torchvision
 torchaudio
 pandas
 dataclasses 
@@ -11,8 +13,8 @@ scipy
 transformers
 accelerate
 bitsandbytes
-gzip
 pytz
-yaml
+PyYAML
 safetensors
 papermill
+ipykernel
