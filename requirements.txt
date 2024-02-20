@@ -12,3 +12,4 @@ gzip
 pytz
 yaml
 safetensors
+papermill
