@@ -1,0 +1,13 @@
+config==0.5.1
+matplotlib==3.8.1
+numpy==1.24.4
+pandas==2.2.0
+pytz==2023.3.post1
+PyYAML==6.0.1
+PyYAML==6.0.1
+safetensors==0.3.2
+scipy==1.12.0
+seaborn==0.13.2
+torch==2.1.2
+transformers==4.36.2
+ipykernel
