@@ -11,7 +11,7 @@ Set up a python environment and run
 
 ## Translation 
 
-`papermill Cloze.ipynb out.ipynb -p input_lang fr -p target_lang zh`
+`papermill Translation.ipynb out.ipynb -p input_lang fr -p target_lang zh`
 
 ## Cloze
 
