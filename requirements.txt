@@ -3,7 +3,6 @@ dataclasses
 numpy 
 matplotlib
 seaborn
-torch
 tqdm 
 scipy 
 transformers
