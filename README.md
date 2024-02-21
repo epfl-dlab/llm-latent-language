@@ -19,4 +19,4 @@ Set up a python environment and run
 
 # Acknowledgements
 
-Starting point of this work was [Nina Rimsky's](https://github.com/nrimsky/LM-exp/blob/main/intermediate_decoding/intermediate_decoding.ipynb) Llama-2 wrapper.
+Starting point of this repo was [Nina Rimsky's](https://github.com/nrimsky/LM-exp/blob/main/intermediate_decoding/intermediate_decoding.ipynb) Llama-2 wrapper.
