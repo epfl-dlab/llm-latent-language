@@ -16,3 +16,7 @@ Set up a python environment and run
 ## Cloze
 
 `papermill Cloze.ipynb out.ipynb -p target_lang fr`
+
+# Acknowledgements
+
+Starting point of this work was [Nina Rimsky's](https://github.com/nrimsky/LM-exp/blob/main/intermediate_decoding/intermediate_decoding.ipynb) Llama-2 wrapper.
