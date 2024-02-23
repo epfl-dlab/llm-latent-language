@@ -1,0 +1,7 @@
+rank_de_de	rank_de_en	rank_fr_fr	rank_fr_en	rank_ru_ru	rank_ru_en
+Min.   :0  	Min.   :0.0001875  	Min.   :0  	Min.   :0.00025  	Min.   :0  	Min.   :0.00675  
+1st Qu.:0  	1st Qu.:0.2644223  	1st Qu.:0  	1st Qu.:0.21517  	1st Qu.:0  	1st Qu.:0.33917  
+Median :0  	Median :0.5993000  	Median :0  	Median :0.51495  	Median :0  	Median :0.65654  
+Mean   :0  	Mean   :0.5554439  	Mean   :0  	Mean   :0.50642  	Mean   :0  	Mean   :0.57047  
+3rd Qu.:0  	3rd Qu.:0.8458389  	3rd Qu.:0  	3rd Qu.:0.77496  	3rd Qu.:0  	3rd Qu.:0.79265  
+Max.   :0  	Max.   :0.9995937  	Max.   :0  	Max.   :0.95544  	Max.   :0  	Max.   :0.96834  

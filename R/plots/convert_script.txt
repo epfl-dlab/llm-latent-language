@@ -1,0 +1,2 @@
+convert -density 300 lang_probs_70b.pdf -quality 100 lang_probs_70b.png
+

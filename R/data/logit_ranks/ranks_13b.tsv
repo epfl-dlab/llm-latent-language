@@ -1,0 +1,7 @@
+rank_de_de	rank_de_en	rank_fr_fr	rank_fr_en	rank_ru_ru	rank_ru_en
+Min.   :1  	Min.   :    5  	Min.   :1  	Min.   :   10  	Min.   :1  	Min.   : 1003  
+1st Qu.:1  	1st Qu.:18882  	1st Qu.:1  	1st Qu.:13001  	1st Qu.:1  	1st Qu.:17664  
+Median :1  	Median :25301  	Median :1  	Median :21071  	Median :1  	Median :22678  
+Mean   :1  	Mean   :22780  	Mean   :1  	Mean   :18514  	Mean   :1  	Mean   :21207  
+3rd Qu.:1  	3rd Qu.:29331  	3rd Qu.:1  	3rd Qu.:26367  	3rd Qu.:1  	3rd Qu.:26862  
+Max.   :1  	Max.   :31946  	Max.   :1  	Max.   :31983  	Max.   :1  	Max.   :31677  
