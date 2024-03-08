@@ -17,6 +17,20 @@ Set up a python environment and run
 
 `papermill Cloze.ipynb out.ipynb -p target_lang fr`
 
+# Precomputed latents
+
+For your convenience, we also provide some precomputed latents on [huggingface.](https://huggingface.co/datasets/wendlerc/llm-latent-language)
+
 # Acknowledgements
 
 Starting point of this repo was [Nina Rimsky's](https://github.com/nrimsky/LM-exp/blob/main/intermediate_decoding/intermediate_decoding.ipynb) Llama-2 wrapper.
+
+# Citation
+```
+@article{wendler2024llamas,
+  title={Do Llamas Work in English? On the Latent Language of Multilingual Transformers},
+  author={Wendler, Chris and Veselovsky, Veniamin and Monea, Giovanni and West, Robert},
+  journal={arXiv preprint arXiv:2402.10588},
+  year={2024}
+}
+```
