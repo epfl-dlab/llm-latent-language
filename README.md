@@ -19,7 +19,7 @@ Set up a python environment and run
 
 # Precomputed latents
 
-For your convenience, we also provide some precomputed latents on [huggingface.](https://huggingface.co/datasets/wendlerc/llm-latent-language). Here are some [preliminary steering experiments](https://colab.research.google.com/drive/1EhCk3_CZ_nSfxxpaDrjTvM-0oHfN9m2n?usp=sharing) using the precomputed latents.
+For your convenience, we also provide some precomputed latents on [huggingface.](https://huggingface.co/datasets/wendlerc/llm-latent-language) Here are some [preliminary steering experiments](https://colab.research.google.com/drive/1EhCk3_CZ_nSfxxpaDrjTvM-0oHfN9m2n?usp=sharing) using the precomputed latents.
 
 # Acknowledgements
 
