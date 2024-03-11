@@ -264,17 +264,14 @@ class LlamaHelper:
             return list(res.values())[0]
         return res
 
-    def latents_all_layers(self, text, return_attn_mech=False, return_intermediate_res=False, return_mlp=False, return_mlp_post_activation=False, return_block=True, normalized=True):
+    def latents_all_layers(self, text, return_attn_mech=False, return_intermediate_res=False, return_mlp=False, return_mlp_post_activation=False, return_block=True):
         if return_attn_mech or return_intermediate_res or return_mlp:
             raise NotImplemented("not implemented")
         self.get_logits(text)
         tensors = []
         if return_block:
             for i, layer in enumerate(self.model.model.layers):
-                if normalized:
-                    tensors += [layer.output.detach().cpu()]
-                else:
-                    tensors += [layer.output_normalized.detach().cpu()]
+                tensors += [layer.output.detach().cpu()]
         elif return_mlp_post_activation:
             for i, layer in enumerate(self.model.model.layers):
                 tensors += [layer.mlp_post_activation.detach().cpu()]
